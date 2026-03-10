@@ -1,0 +1,5 @@
+{
+  "name": "Frontline Banking Multilingual Assistant",
+  "description": "A Gen-AI powered voice assistant for bank staff to communicate with customers in multiple languages with real-time translation and banking context.",
+  "requestFramePermissions": ["microphone"]
+}
